@@ -13,4 +13,9 @@ body {
 h1 {
   font-family: "Merriweather", serif;
   font-size: 32px;
+  color: red;
 }
+  
+  #bob {
+    color: green;
+  }
